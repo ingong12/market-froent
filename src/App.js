@@ -12,7 +12,7 @@ function App() {
     const history = useHistory();
     return (
         <div>
-            <h1>용호짱짱맨</h1>
+            <h2>용호짱짱맨</h2>
             <div id="header">
                 <HaderPage />
             </div>
