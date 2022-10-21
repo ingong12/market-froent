@@ -13,6 +13,7 @@ function App() {
     return (
         <div>
             <div id="header">
+                <h1>용호짱짱맨</h1>
                 <HaderPage />
             </div>
             <div id="body">
